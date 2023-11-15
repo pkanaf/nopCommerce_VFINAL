@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T21:21:48 EST" name="Testing nopCommerce Apps" finished-at="2023-11-14T21:22:27 EST" duration-ms="38014">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T21:21:48 EST" name="Regression1" finished-at="2023-11-14T21:22:27 EST" duration-ms="38014">
+      <class name="Pages.TestNopCommerce">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:21:48 EST" name="setup" finished-at="2023-11-14T21:21:55 EST" duration-ms="6903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickEletronicsMenu()[pri:1, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:21:55 EST" name="clickEletronicsMenu" finished-at="2023-11-14T21:21:58 EST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickEletronicsMenu -->
+        <test-method signature="testCellphonesgSubMenu()[pri:2, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:21:58 EST" name="testCellphonesgSubMenu" finished-at="2023-11-14T21:21:58 EST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCellphonesgSubMenu -->
+        <test-method signature="testHTConeImage()[pri:3, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:21:58 EST" name="testHTConeImage" finished-at="2023-11-14T21:22:00 EST" duration-ms="2554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHTConeImage -->
+        <test-method signature="testAddToCart()[pri:4, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:00 EST" name="testAddToCart" finished-at="2023-11-14T21:22:02 EST" duration-ms="2036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method signature="testShoppingCart()[pri:5, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:02 EST" name="testShoppingCart" finished-at="2023-11-14T21:22:04 EST" duration-ms="2273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShoppingCart -->
+        <test-method signature="testTermsAndConditions()[pri:6, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:04 EST" name="testTermsAndConditions" finished-at="2023-11-14T21:22:07 EST" duration-ms="2054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTermsAndConditions -->
+        <test-method signature="testCheckout()[pri:7, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:07 EST" name="testCheckout" finished-at="2023-11-14T21:22:09 EST" duration-ms="2377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckout -->
+        <test-method signature="testCheckoutAsGuest()[pri:8, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:09 EST" name="testCheckoutAsGuest" finished-at="2023-11-14T21:22:11 EST" duration-ms="2435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutAsGuest -->
+        <test-method signature="testBillingInformation()[pri:9, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:11 EST" name="testBillingInformation" finished-at="2023-11-14T21:22:14 EST" duration-ms="2533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBillingInformation -->
+        <test-method signature="testBillingSaveButton()[pri:10, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:14 EST" name="testBillingSaveButton" finished-at="2023-11-14T21:22:16 EST" duration-ms="2037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBillingSaveButton -->
+        <test-method signature="testShippingMethodNextStepButton()[pri:11, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:16 EST" name="testShippingMethodNextStepButton" finished-at="2023-11-14T21:22:18 EST" duration-ms="2037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShippingMethodNextStepButton -->
+        <test-method signature="testPaymentMethodNextStepButton()[pri:12, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:18 EST" name="testPaymentMethodNextStepButton" finished-at="2023-11-14T21:22:20 EST" duration-ms="2037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPaymentMethodNextStepButton -->
+        <test-method signature="testPaymentInfoNextStepButton()[pri:13, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:20 EST" name="testPaymentInfoNextStepButton" finished-at="2023-11-14T21:22:22 EST" duration-ms="2035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPaymentInfoNextStepButton -->
+        <test-method signature="testConfirmButton()[pri:14, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:22 EST" name="testConfirmButton" finished-at="2023-11-14T21:22:24 EST" duration-ms="2050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConfirmButton -->
+        <test-method signature="testContinueButton()[pri:15, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:24 EST" name="testContinueButton" finished-at="2023-11-14T21:22:26 EST" duration-ms="2210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContinueButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages.TestNopCommerce@74bf1791]" started-at="2023-11-14T21:22:26 EST" name="tearDown" finished-at="2023-11-14T21:22:27 EST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Pages.TestNopCommerce -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Testing nopCommerce Apps -->
+</testng-results>

@@ -1,0 +1,30 @@
+INFO    2023-11-14 21:18:35,666 [main] Pages.TestNopCommerce  - setting up the browser for the test
+INFO    2023-11-14 21:18:37,668 [main] Pages.TestNopCommerce  - Setting up the browser for the test
+INFO    2023-11-14 21:18:39,824 [main] Pages.TestNopCommerce  - Step 1: Hover over Electronics menu
+ERROR   2023-11-14 21:18:39,824 [main] Pages.TestNopCommerce  - Step 1: Hover over Electronics menu failed
+ERROR   2023-11-14 21:18:39,856 [main] Pages.TestNopCommerce  - Step 2: Click on Cell phones submenu failed
+INFO    2023-11-14 21:18:42,701 [main] Pages.TestNopCommerce  - Step 3: Click on the desired cellphone successful
+ERROR   2023-11-14 21:18:42,701 [main] Pages.TestNopCommerce  - Step 3: Clicking on the desired cellphone failed
+INFO    2023-11-14 21:18:44,745 [main] Pages.TestNopCommerce  - Step 4: Click on Add to Cart button successful
+ERROR   2023-11-14 21:18:44,745 [main] Pages.TestNopCommerce  - Step 4: Clicking on Add to Cart button failed
+INFO    2023-11-14 21:18:47,018 [main] Pages.TestNopCommerce  - Step 5: Click on the Shopping Cart link successful
+ERROR   2023-11-14 21:18:47,018 [main] Pages.TestNopCommerce  - Step 5: Clicking on the Shopping Cart link failed
+INFO    2023-11-14 21:18:49,072 [main] Pages.TestNopCommerce  - Step 6: Select Terms and Conditions checkbox
+INFO    2023-11-14 21:18:51,470 [main] Pages.TestNopCommerce  - Step 7: Click on Checkout button successful
+ERROR   2023-11-14 21:18:51,470 [main] Pages.TestNopCommerce  - Step 7: Clicking on Checkout button failed
+INFO    2023-11-14 21:18:53,897 [main] Pages.TestNopCommerce  - Step 8: Click on Checkout as Guest successful
+ERROR   2023-11-14 21:18:53,897 [main] Pages.TestNopCommerce  - Step 8: Clicking on Checkout as Guest failed
+INFO    2023-11-14 21:18:56,437 [main] Pages.TestNopCommerce  - Step 9: Fill in Billing Information
+ERROR   2023-11-14 21:18:56,437 [main] Pages.TestNopCommerce  - Step 9: Filling in Billing Information failed
+INFO    2023-11-14 21:18:58,478 [main] Pages.TestNopCommerce  - Step 10: Click on Billing Save Button successful
+ERROR   2023-11-14 21:18:58,478 [main] Pages.TestNopCommerce  - Step 10: Clicking on Billing Save Button failed
+INFO    2023-11-14 21:19:00,519 [main] Pages.TestNopCommerce  - Step 11: Click on Shipping Method Next Step Button successful
+ERROR   2023-11-14 21:19:00,519 [main] Pages.TestNopCommerce  - Step 11: Clicking on Shipping Method Next Step Button failed
+INFO    2023-11-14 21:19:02,556 [main] Pages.TestNopCommerce  - Step 12: Click on Payment Method Next Step Button successful
+ERROR   2023-11-14 21:19:02,556 [main] Pages.TestNopCommerce  - Step 12: Clicking on Payment Method Next Step Button failed
+INFO    2023-11-14 21:19:04,595 [main] Pages.TestNopCommerce  - Step 13: Click on Payment Info Next Step Button successful
+ERROR   2023-11-14 21:19:04,595 [main] Pages.TestNopCommerce  - Step 13: Clicking on Payment Info Next Step Button failed
+INFO    2023-11-14 21:19:06,639 [main] Pages.TestNopCommerce  - Step 14: Click on Confirm Button successful
+ERROR   2023-11-14 21:19:06,639 [main] Pages.TestNopCommerce  - Step 14: Clicking on Confirm Button failed
+INFO    2023-11-14 21:19:08,893 [main] Pages.TestNopCommerce  - Step 15: Click on Continue Button successful
+ERROR   2023-11-14 21:19:08,893 [main] Pages.TestNopCommerce  - Step 15: Clicking on Continue Button failed
